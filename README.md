@@ -41,14 +41,6 @@
 ## 💡 IV. Ý Tưởng Giải Quyết & Tính Năng (Core Features)
 
 Dự án cung cấp giải pháp **Website hỗ trợ đăng ký online** với giao diện thân thiện, hiện đại, tối ưu thao tác cho người dùng.
-<br>
-Một số hình ảnh về website:
-
-
-
-
-<br>
-
 ### Các tính năng chính (qua giao diện UI):
 1. **Trang chủ & Chọn phòng nhanh:** 
    - Nhập thông tin nhanh: Email sinh viên (`MSSV@student.hcmiu.edu.vn`) / MSSV và số lượng thành viên nhóm[cite: 4, 5, 6].
